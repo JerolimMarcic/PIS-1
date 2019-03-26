@@ -9,4 +9,5 @@ namespace Projekt_pis_1
     {
         public void Rad() { }
     }
+    //sve radi
 }
