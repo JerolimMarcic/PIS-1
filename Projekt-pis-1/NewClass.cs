@@ -8,4 +8,5 @@ namespace Projekt_pis_1
     class NewClass
     {
     }
+    //sve radi
 }
